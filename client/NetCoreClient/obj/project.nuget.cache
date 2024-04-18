@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s5XwLrWDiWCUBZJakxjarhwMPCJ6cwAJWfPDWh3jxWO3Z0DFrPrh+iiEeQJeLy6EpoMcGXXnN06i1Enu8hRz4Q==",
+  "dgSpecHash": "Opu5P2S/2IqxPUr5Fze9K1gbzlPf38KHNP5Z9NfbPVUmFhItHwgYHmMiDzIo299uHLByNXkzvv8P+z0IkkGcag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utente\\Desktop\\VALLE ANNO2\\MQTT_ACES\\iot-protocols-CAES\\client\\NetCoreClient\\NetCoreClient.csproj",
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\RepoProtocolsValle\\client\\NetCoreClient\\NetCoreClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Utente\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\Utente\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

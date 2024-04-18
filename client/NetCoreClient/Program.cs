@@ -7,7 +7,7 @@ sensors.Add(new VirtualSpeedSensor());
 
 // define protocol
 //IProtocolInterface protocol = new Http("http://localhost:8011/cars/123");
-IProtocolInterface protocol = new Mqtt("127.0.0.1");
+IProtocolInterface protocol = new Mqtt("test.mosquitto.org");
 
 // send data to server
 while (true)

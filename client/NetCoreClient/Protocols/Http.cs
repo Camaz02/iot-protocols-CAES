@@ -14,11 +14,13 @@ namespace NetCoreClient.Protocols
 
         public async void Send(string data, string sensor)
         {
-            var client = new HttpClient();
+            //var client = new HttpClient();
 
-            var result = await client.PostAsync(Endpoint, new StringContent(data));
+            //var result = await client.PostAsync(Endpoint, new StringContent(data));
 
-            Console.Out.WriteLine(result.StatusCode);
+            //Console.Out.WriteLine(result.StatusCode);
+
+
         }
     }
 }

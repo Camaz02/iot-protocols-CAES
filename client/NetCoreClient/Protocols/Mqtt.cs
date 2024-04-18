@@ -10,7 +10,7 @@ namespace NetCoreClient.Protocols
 {
     internal class Mqtt : IProtocolInterface
     {
-        private const string TOPIC_PREFIX = "iot2024test/";
+        private const string TOPIC_PREFIX = "iot2024/";
         private IMqttClient mqttClient;
         private string endpoint;
 
@@ -26,8 +26,9 @@ namespace NetCoreClient.Protocols
             var factory = new MqttFactory();
 
             var options = new MqttClientOptionsBuilder()
-                .WithTcpServer(this.endpoint)
+                .WithTcpServer(this.endpoint, 1883)
                 .Build();
+
 
             mqttClient = factory.CreateMqttClient();
 
@@ -37,7 +38,7 @@ namespace NetCoreClient.Protocols
         public async void Send(string data, string sensor)
         {
             var message = new MqttApplicationMessageBuilder()
-                .WithTopic(TOPIC_PREFIX + sensor)
+                .WithTopic(TOPIC_PREFIX + sensor + "Top")
                 .WithPayload(data)
                 .WithQualityOfServiceLevel(MQTTnet.Protocol.MqttQualityOfServiceLevel.ExactlyOnce)
                 .Build();
