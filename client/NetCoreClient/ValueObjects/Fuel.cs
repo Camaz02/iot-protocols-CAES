@@ -1,9 +1,10 @@
 ﻿namespace NetCoreClient.ValueObjects
 {
-    internal class Speed
+    internal class Fuel
     {
         public int Value { get; private set; }
-        public Speed(int value)
+
+        public Fuel(int value)
         {
             this.Value = value;
         }
