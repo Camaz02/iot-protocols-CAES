@@ -1,3 +1,8 @@
 # Corso protocolli di comunicazione IoT
 
-Esempi ed esercizi per il modulo "Adv networking: comunicazione tra oggetti e standard di interoperabilità" - corso IIoT 2022.
+# Scenario aziendale: Only Cars rappresenta un'azienda all'avanguardia nel settore del noleggio auto, distinguendosi per l'uso di tecnologie innovative e sistemi interconnessi. Questo le permette di offrire un servizio personalizzato e efficiente, con una gestione ottimizzata del parco auto e una comunicazione immediata con i clienti. Only Cars si posiziona così come leader nel mercato del noleggio auto, con un occhio sempre attento all'evoluzione tecnologica e alle esigenze dei consumatori moderni.
+
+# Protocollo: AMQP
+
+# Descrizione del codice:
+
