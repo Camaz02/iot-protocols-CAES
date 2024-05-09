@@ -1,0 +1,17 @@
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\bin\Debug\net8.0\AMQP_Client.exe
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\bin\Debug\net8.0\AMQP_Client.deps.json
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\bin\Debug\net8.0\AMQP_Client.runtimeconfig.json
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\bin\Debug\net8.0\AMQP_Client.dll
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\bin\Debug\net8.0\AMQP_Client.pdb
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\obj\Debug\net8.0\AMQP_Client.csproj.AssemblyReference.cache
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\obj\Debug\net8.0\AMQP_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\obj\Debug\net8.0\AMQP_Client.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\obj\Debug\net8.0\AMQP_Client.AssemblyInfo.cs
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\obj\Debug\net8.0\AMQP_Client.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\obj\Debug\net8.0\AMQP_Client.csproj.CopyComplete
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\obj\Debug\net8.0\AMQP_Client.dll
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\obj\Debug\net8.0\refint\AMQP_Client.dll
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\obj\Debug\net8.0\AMQP_Client.pdb
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\obj\Debug\net8.0\AMQP_Client.genruntimeconfig.cache
+C:\Users\Utente\source\repos\AMQP\AMQP_Client\obj\Debug\net8.0\ref\AMQP_Client.dll
