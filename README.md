@@ -4,8 +4,7 @@
 
 # Protocollo: COaP
 
-# Descrizione del codice: CoAP (Constrained Application Protocol) è un protocollo di trasferimento web progettato per lavorare in ambienti limitati, con scarsa larghezza di banda ed energia, e dove è necessaria una comunicazione rapida e ininterrotta.
-Design del Sistema:
+# Descrizione del codice: CoAP (Constrained Application Protocol) è un protocollo di trasferimento web progettato per lavorare in ambienti limitati, con scarsa larghezza di banda ed energia, e dove è necessaria una comunicazione rapida e ininterrotta. Design del Sistema:
 Sender (Macchina): La macchina che affitta l’azienda “Only Cars” agirà come il sender. Questa macchina raccoglierà i dati da vari sensori (ad esempio, velocità, posizione GPS, stato del motore) e li invierà al receiver.
 Receiver: Il receiver rappresenta il sistema centrale dell’azienda che riceve i dati inviati dalla macchina.
 Implementazione:
@@ -18,6 +17,5 @@ GET: Utilizzato per recuperare informazioni sulla risorsa identificata dall’UR
 POST: Crea una nuova risorsa subordinata sotto l’URI genitore richiesto dal client. Il server risponde con un codice di risposta (ad esempio, 201 Created) o un codice di errore (ad esempio, 4xx).
 DELETE: Elimina la risorsa identificata dall’URI richiesto. Il server risponde con un codice di risposta (ad esempio, 200 OK) se l’operazione ha successo.
 PUT: Aggiorna o crea la risorsa identificata dall’URI di richiesta con il corpo del messaggio incluso.
-
 In particolare potremmo sfruttare le funzionalità CON e RST. CON per limitare il traffico dati e RST per creare un sistema di allarmistica.
 
