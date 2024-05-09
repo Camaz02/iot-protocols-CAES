@@ -4,4 +4,6 @@
 
 # Protocollo: AMQP
 
+# Status: Funzionante
+
 # Descrizione del codice:
